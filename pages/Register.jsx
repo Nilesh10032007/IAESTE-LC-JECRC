@@ -23,7 +23,7 @@ export default function Register() {
               alt="IAESTE LC JECRC"
               className="w-48 sm:w-64 lg:w-80 h-auto mx-auto object-contain mb-4"
             />
-            <p className="text-sm text-gray-500">Membership Registration</p>
+            <p className="text-sm text-gray-500">Members Registration</p>
           </div>
 
           <form onSubmit={handleSubmit} className="space-y-5">
